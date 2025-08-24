@@ -1,6 +1,4 @@
-:
-
-🌿 HealthyIndia — Digital Health Brain (MVP)
+# 🌿 HealthyIndia — Digital Health Brain (MVP)
 
 ⚡ A hands-on, offline-friendly Streamlit MVP that reimagines India’s digital health ecosystem.
 Everything runs locally — secure, private, and Anaconda-friendly.
